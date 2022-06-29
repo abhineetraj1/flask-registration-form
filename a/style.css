@@ -1,0 +1,30 @@
+body{
+	text-align: center;
+}
+a{
+	color: white;
+	font-size: 24px;
+}
+button{
+	padding: 4px;
+	margin: 4px;
+	font-size: 24px;
+	background: white;
+	border-radius: 15px;
+}
+form{
+	padding: 4px;
+	margin: 4px;
+	background: black;
+	border-radius: 15px;
+	height: 300px;
+	text-align: center;
+}
+input{
+	border-radius: 10px;
+	padding: 4px;
+	margin: 4px;
+	font-size: 24px;
+	width: 88%;
+	text-align: center;
+}
